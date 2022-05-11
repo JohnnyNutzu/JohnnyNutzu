@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnnyNutzu
 - 👀 I’m interested in ...Software Develeopment, Coding , Games
 - 🌱 I’m currently learning ... Node Js with React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...future projects
 - 📫 How to reach me ... laiuionutgigel@yahoo.com
 
 <!---
